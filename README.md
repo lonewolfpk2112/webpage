@@ -1,8 +1,3 @@
----
-title: Priyanshu Kumar
-date: 2021-05-26
-
----
 
 ## Welcome to My blog
 
